@@ -33,7 +33,7 @@ Okay, let's get into Google Earth.
 
 I start by doing a search for **Kiffa** and can see there is a town within Mauratania. From a first glance of the satellite imagery, this looks like a good match, however I confirm this with another search on Google just to confirm there are no other cities/towns that this could be.
 
-![](/home/ren/snap/marktext/9/.config/marktext/images/2024-10-04-15-13-30-image.png)
+![Satellite image of Kiffa](docs/assets/images/kiffa.jpg)
 
 Now that I am happy with this, I can start taking a look a the image provided on the exercise:
 
@@ -63,20 +63,14 @@ As I know we can see some trees in the distance, this area looks to be a good st
 
 Next I use objects within the image which I can try and identify. In this image, I think the main help will be the large tree(s) on the right of the image.
 
-I rotate the satellite imagery so that I am facing south and start to search. There are about 3 or 4 trees which catch my attention, but other small details rule these out such as:
-
-<img src="file:///home/ren/snap/marktext/9/.config/marktext/images/2024-10-04-14-58-59-image.png" title="" alt="" data-align="center">
-
-Surrounding buildings do not match<img src="file:///home/ren/snap/marktext/9/.config/marktext/images/2024-10-04-14-59-29-image.png" title="" alt="" data-align="center">Too close to the road
+I rotate the satellite imagery so that I am facing south and start to search. There are about 3 or 4 trees which catch my attention, but other small details rule these out such as incorrect tree location, surrounding buildings not matching etc.
 
 I then find a location which looks very promising.
 
-<img src="file:///home/ren/snap/marktext/9/.config/marktext/images/2024-10-04-15-00-53-image.png" title="" alt="" data-align="center">
-
-All roads and buildings line up with the original image.
+![Zoomed in satellite image of a tarmac road in Kiffa](docs/assets/images/correct_location.jpg)
 
 I also checked to see if the telegraph poles which are in the image are visibilty, and a historical image from 2021 clearly shows the shadows cast from these:
 
-![](/home/ren/snap/marktext/9/.config/marktext/images/2024-10-04-15-09-26-image.png)
+![A satellite image of Kiffa showing shadows cast from a lamp post](docs/assets/images/lamppost.jpg)
 
 Based on this, I will put a marker down at: **16°36'34.24"N 11°23'52.20"W**
