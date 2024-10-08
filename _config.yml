@@ -69,3 +69,6 @@ minima:
      - { platform: x,              user_url: "https://x.com/ren_osint" }
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
+
+# Permalink Settings
+permalink: none

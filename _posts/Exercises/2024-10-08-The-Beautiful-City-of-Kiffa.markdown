@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Exercise 1 - The Beautiful City of Kiffa
-date: 2024-10-04 12:00:00 +0100
-categories: OSINT
+date: 2024-10-08 12:00:00 +0100
+categories: OSINT Exercises
 ---
 
-As with all of these excercises, created by [Sofia Santos](https://gralhix.com/), we are provided with a Task Briefing:
+As with all of these excercises, created by [Sofia Santos](https://gralhix.com/){:target="_blank"}, we are provided with a Task Briefing:
 
 > Below you can see a screenshot from a tweet containing a photo. It 
 > contains all the relevant information necessary to help you find the 
@@ -33,7 +33,7 @@ Okay, let's get into Google Earth.
 
 I start by doing a search for **Kiffa** and can see there is a town within Mauratania. From a first glance of the satellite imagery, this looks like a good match, however I confirm this with another search on Google just to confirm there are no other cities/towns that this could be.
 
-![Satellite image of Kiffa](docs/assets/images/kiffa.jpg)
+![Satellite image of Kiffa](/assets/images/kiffa.jpg)
 
 Now that I am happy with this, I can start taking a look a the image provided on the exercise:
 
@@ -67,10 +67,12 @@ I rotate the satellite imagery so that I am facing south and start to search. Th
 
 I then find a location which looks very promising.
 
-![Zoomed in satellite image of a tarmac road in Kiffa](docs/assets/images/correct_location.jpg)
+![Zoomed in satellite image of a tarmac road in Kiffa](/assets/images/correct_location.jpg)
 
 I also checked to see if the telegraph poles which are in the image are visibilty, and a historical image from 2021 clearly shows the shadows cast from these:
 
-![A satellite image of Kiffa showing shadows cast from a lamp post](docs/assets/images/lamppost.jpg)
+![A satellite image of Kiffa showing shadows cast from a lamp post](/assets/images/lamppost.jpg)
 
 Based on this, I will put a marker down at: **16°36'34.24"N 11°23'52.20"W**
+
+ren. :)
